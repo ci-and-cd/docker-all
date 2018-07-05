@@ -55,3 +55,6 @@
 [submodule "docker-sqldb"]
 	path = docker-sqldb
 	url = git@github.com:home1-oss/docker-sqldb.git
+[submodule "docker-java-accessories"]
+	path = docker-java-accessories
+	url = git@github.com:ci-and-cd/docker-java-accessories.git
