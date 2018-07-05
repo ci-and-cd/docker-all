@@ -1,0 +1,51 @@
+[submodule "docker-alpine-glibc"]
+	path = docker-alpine-glibc
+	url = git@github.com:ci-and-cd/docker-alpine-glibc.git
+[submodule "docker-alpine-gradle"]
+	path = docker-alpine-gradle
+	url = git@github.com:ci-and-cd/docker-alpine-gradle.git
+[submodule "docker-alpine-locale"]
+	path = docker-alpine-locale
+	url = git@github.com:ci-and-cd/docker-alpine-locale.git
+[submodule "docker-alpine-maven"]
+	path = docker-alpine-maven
+	url = git@github.com:ci-and-cd/docker-alpine-maven.git
+[submodule "docker-bionic-locale"]
+	path = docker-bionic-locale
+	url = git@github.com:ci-and-cd/docker-bionic-locale.git
+[submodule "docker-bionic-nvm-node"]
+	path = docker-bionic-nvm-node
+	url = git@github.com:ci-and-cd/docker-bionic-nvm-node.git
+[submodule "docker-bionic-pyenv-python"]
+	path = docker-bionic-pyenv-python
+	url = git@github.com:ci-and-cd/docker-bionic-pyenv-python.git
+[submodule "docker-bionic-rvm-ruby"]
+	path = docker-bionic-rvm-ruby
+	url = git@github.com:ci-and-cd/docker-bionic-rvm-ruby.git
+[submodule "docker-ci"]
+	path = docker-ci
+	url = git@github.com:ci-and-cd/docker-ci.git
+[submodule "docker-java"]
+	path = docker-java
+	url = git@github.com:ci-and-cd/docker-java.git
+[submodule "docker-java-8-oracle"]
+	path = docker-java-8-oracle
+	url = git@github.com:ci-and-cd/docker-java-8-oracle.git
+[submodule "docker-java-9-oracle"]
+	path = docker-java-9-oracle
+	url = git@github.com:ci-and-cd/docker-java-9-oracle.git
+[submodule "docker-nexus3"]
+	path = docker-nexus3
+	url = git@github.com:ci-and-cd/docker-nexus3.git
+[submodule "docker-nginx-proxy"]
+	path = docker-nginx-proxy
+	url = git@github.com:ci-and-cd/docker-nginx-proxy.git
+[submodule "docker-nix"]
+	path = docker-nix
+	url = git@github.com:ci-and-cd/docker-nix.git
+[submodule "docker-sonarqube"]
+	path = docker-sonarqube
+	url = git@github.com:ci-and-cd/docker-sonarqube.git
+[submodule "docker-waitforit"]
+	path = docker-waitforit
+	url = git@github.com:ci-and-cd/docker-waitforit.git
