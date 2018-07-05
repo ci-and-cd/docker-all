@@ -49,3 +49,9 @@
 [submodule "docker-waitforit"]
 	path = docker-waitforit
 	url = git@github.com:ci-and-cd/docker-waitforit.git
+[submodule "docker-bionic-docker"]
+	path = docker-bionic-docker
+	url = git@github.com:ci-and-cd/docker-bionic-docker.git
+[submodule "docker-sqldb"]
+	path = docker-sqldb
+	url = git@github.com:home1-oss/docker-sqldb.git
