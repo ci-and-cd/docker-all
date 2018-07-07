@@ -58,3 +58,6 @@
 [submodule "docker-java-accessories"]
 	path = docker-java-accessories
 	url = git@github.com:ci-and-cd/docker-java-accessories.git
+[submodule "docker-bionic-rust"]
+	path = docker-bionic-rust
+	url = git@github.com:ci-and-cd/docker-bionic-rust.git
