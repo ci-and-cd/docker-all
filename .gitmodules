@@ -67,3 +67,6 @@
 [submodule "docker-alpine-linuxbrew"]
 	path = docker-alpine-linuxbrew
 	url = git@github.com:ci-and-cd/docker-alpine-linuxbrew.git
+[submodule "docker-java-oracle"]
+	path = docker-java-oracle
+	url = git@github.com:ci-and-cd/docker-java-oracle.git
