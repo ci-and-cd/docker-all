@@ -79,3 +79,12 @@
 [submodule "docker-bionic-cibase"]
 	path = docker-bionic-cibase
 	url = git@github.com:ci-and-cd/docker-bionic-cibase.git
+[submodule "docker-kibana"]
+	path = docker-kibana
+	url = git@github.com:ci-and-cd/docker-kibana.git
+[submodule "docker-logstash"]
+	path = docker-logstash
+	url = git@github.com:ci-and-cd/docker-logstash.git
+[submodule "docker-elasticsearch"]
+	path = docker-elasticsearch
+	url = git@github.com:ci-and-cd/docker-elasticsearch.git
