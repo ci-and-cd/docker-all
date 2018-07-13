@@ -64,9 +64,6 @@
 [submodule "docker-bionic-graphviz"]
 	path = docker-bionic-graphviz
 	url = git@github.com:ci-and-cd/docker-bionic-graphviz.git
-[submodule "docker-alpine-linuxbrew"]
-	path = docker-alpine-linuxbrew
-	url = git@github.com:ci-and-cd/docker-alpine-linuxbrew.git
 [submodule "docker-java-oracle"]
 	path = docker-java-oracle
 	url = git@github.com:ci-and-cd/docker-java-oracle.git
@@ -97,3 +94,6 @@
 [submodule "docker-gitlab-runner"]
 	path = docker-gitlab-runner
 	url = git@github.com:ci-and-cd/docker-gitlab-runner.git
+[submodule "docker-linuxbrew"]
+        path = docker-linuxbrew
+        url = git@github.com:ci-and-cd/docker-linuxbrew.git
