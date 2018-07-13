@@ -94,3 +94,6 @@
 [submodule "docker-jenkins-swarm-slave"]
 	path = docker-jenkins-swarm-slave
 	url = git@github.com:ci-and-cd/docker-jenkins-swarm-slave.git
+[submodule "docker-gitlab-runner"]
+	path = docker-gitlab-runner
+	url = git@github.com:ci-and-cd/docker-gitlab-runner.git
