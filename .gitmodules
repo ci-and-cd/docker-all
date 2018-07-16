@@ -97,3 +97,6 @@
 [submodule "docker-linuxbrew"]
         path = docker-linuxbrew
         url = git@github.com:ci-and-cd/docker-linuxbrew.git
+[submodule "docker-java-10-oracle"]
+	path = docker-java-10-oracle
+	url = git@github.com:ci-and-cd/docker-java-10-oracle.git
