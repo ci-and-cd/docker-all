@@ -3,3 +3,7 @@
 *.iml
 
 .DS_Store
+
+# deprecated
+/docker-ci
+/docker-java
