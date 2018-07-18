@@ -100,3 +100,9 @@
 [submodule "docker-java-10-oracle"]
 	path = docker-java-10-oracle
 	url = git@github.com:ci-and-cd/docker-java-10-oracle.git
+[submodule "docker-redis"]
+	path = docker-redis
+	url = git@github.com:ci-and-cd/docker-redis.git
+[submodule "docker-rabbitmq"]
+	path = docker-rabbitmq
+	url = git@github.com:ci-and-cd/docker-rabbitmq.git
