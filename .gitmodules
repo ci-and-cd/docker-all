@@ -106,3 +106,12 @@
 [submodule "docker-rabbitmq"]
 	path = docker-rabbitmq
 	url = git@github.com:cloud-ready/docker-rabbitmq.git
+[submodule "docker-mariadb"]
+	path = docker-mariadb
+	url = git@github.com:cloud-ready/docker-mariadb.git
+[submodule "docker-mysql"]
+	path = docker-mysql
+	url = git@github.com:cloud-ready/docker-mysql.git
+[submodule "docker-postgres"]
+	path = docker-postgres
+	url = git@github.com:cloud-ready/docker-postgres.git
