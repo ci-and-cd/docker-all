@@ -103,6 +103,3 @@
 [submodule "docker-redis"]
 	path = docker-redis
 	url = git@github.com:ci-and-cd/docker-redis.git
-[submodule "docker-rabbitmq"]
-	path = docker-rabbitmq
-	url = git@github.com:ci-and-cd/docker-rabbitmq.git
