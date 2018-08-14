@@ -106,3 +106,6 @@
 [submodule "docker-postgres"]
 	path = docker-postgres
 	url = git@github.com:cloud-ready/docker-postgres.git
+[submodule "docker-jupyter"]
+	path = docker-jupyter
+	url = git@github.com:infra-top/docker-jupyter.git
