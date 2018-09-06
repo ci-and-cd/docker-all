@@ -112,3 +112,6 @@
 [submodule "docker-mongodb"]
 	path = docker-mongodb
 	url = git@github.com:ci-and-cd/docker-mongodb.git
+[submodule "docker-elasticsearch2"]
+	path = docker-elasticsearch2
+	url = git@github.com:ci-and-cd/docker-elasticsearch2.git
