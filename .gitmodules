@@ -115,3 +115,6 @@
 [submodule "docker-elasticsearch2"]
 	path = docker-elasticsearch2
 	url = git@github.com:ci-and-cd/docker-elasticsearch2.git
+[submodule "docker-mac-network"]
+	path = docker-mac-network
+	url = git@github.com:docker-for-mac/docker-mac-network.git
