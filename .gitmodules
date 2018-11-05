@@ -118,3 +118,7 @@
 [submodule "docker-mac-network"]
 	path = docker-mac-network
 	url = git@github.com:docker-for-mac/docker-mac-network.git
+[submodule "docker-spring-boot-admin"]
+	path = docker-spring-boot-admin
+	url = git@github.com:cloud-ready/docker-spring-boot-admin.git
+	branch = develop
