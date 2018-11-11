@@ -67,15 +67,6 @@
 [submodule "docker-bionic-cibase"]
 	path = docker-bionic-cibase
 	url = git@github.com:ci-and-cd/docker-bionic-cibase.git
-[submodule "docker-kibana"]
-	path = docker-kibana
-	url = git@github.com:ci-and-cd/docker-kibana.git
-[submodule "docker-logstash"]
-	path = docker-logstash
-	url = git@github.com:ci-and-cd/docker-logstash.git
-[submodule "docker-elasticsearch"]
-	path = docker-elasticsearch
-	url = git@github.com:ci-and-cd/docker-elasticsearch.git
 [submodule "docker-jenkins-jnlp-slave"]
 	path = docker-jenkins-jnlp-slave
 	url = git@github.com:ci-and-cd/docker-jenkins-jnlp-slave.git
@@ -149,4 +140,20 @@
 [submodule "docker-prometheus"]
 	path = docker-prometheus
 	url = git@github.com:cloud-ready/docker-prometheus.git
+	branch = develop
+[submodule "docker-elk-elasticsearch"]
+	path = docker-elk-elasticsearch
+	url = git@github.com:ci-and-cd/docker-elk-elasticsearch.git
+	branch = develop
+[submodule "docker-elk-logstash"]
+	path = docker-elk-logstash
+	url = git@github.com:ci-and-cd/docker-elk-logstash.git
+	branch = develop
+[submodule "docker-elk-kibana"]
+	path = docker-elk-kibana
+	url = git@github.com:ci-and-cd/docker-elk-kibana.git
+	branch = develop
+[submodule "docker-graylog"]
+	path = docker-graylog
+	url = git@github.com:cloud-ready/docker-graylog.git
 	branch = develop
