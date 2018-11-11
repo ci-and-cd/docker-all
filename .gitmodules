@@ -146,3 +146,7 @@
 	path = docker-tick-influxdb
 	url = git@github.com:cloud-ready/docker-tick-influxdb.git
 	branch = develop
+[submodule "docker-prometheus"]
+	path = docker-prometheus
+	url = git@github.com:cloud-ready/docker-prometheus.git
+	branch = develop
