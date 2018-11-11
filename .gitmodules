@@ -122,3 +122,27 @@
 	path = docker-spring-boot-admin
 	url = git@github.com:cloud-ready/docker-spring-boot-admin.git
 	branch = develop
+[submodule "docker-cadvisor"]
+	path = docker-cadvisor
+	url = git@github.com:cloud-ready/docker-cadvisor.git
+	branch = develop
+[submodule "docker-grafana"]
+	path = docker-grafana
+	url = git@github.com:cloud-ready/docker-grafana.git
+	branch = develop
+[submodule "docker-tick-telegraf"]
+	path = docker-tick-telegraf
+	url = git@github.com:cloud-ready/docker-tick-telegraf.git
+	branch = develop
+[submodule "docker-tick-chronograf"]
+	path = docker-tick-chronograf
+	url = git@github.com:cloud-ready/docker-tick-chronograf.git
+	branch = develop
+[submodule "docker-tick-kapacitor"]
+	path = docker-tick-kapacitor
+	url = git@github.com:cloud-ready/docker-tick-kapacitor.git
+	branch = develop
+[submodule "docker-tick-influxdb"]
+	path = docker-tick-influxdb
+	url = git@github.com:cloud-ready/docker-tick-influxdb.git
+	branch = develop
