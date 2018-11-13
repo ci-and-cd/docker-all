@@ -157,3 +157,7 @@
 	path = docker-graylog
 	url = git@github.com:cloud-ready/docker-graylog.git
 	branch = develop
+[submodule "docker-node-exporter"]
+	path = docker-node-exporter
+	url = git@github.com:cloud-ready/docker-node-exporter.git
+	branch = develop
