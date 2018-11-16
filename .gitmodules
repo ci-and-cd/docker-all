@@ -161,3 +161,7 @@
 	path = docker-node-exporter
 	url = git@github.com:cloud-ready/docker-node-exporter.git
 	branch = develop
+[submodule "docker-sonarqube-plugins"]
+	path = docker-sonarqube-plugins
+	url = git@github.com:ci-and-cd/docker-sonarqube-plugins.git
+	branch = develop
