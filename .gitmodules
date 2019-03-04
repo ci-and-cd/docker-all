@@ -25,9 +25,6 @@
 [submodule "docker-java-8-oracle"]
 	path = docker-java-8-oracle
 	url = git@github.com:ci-and-cd/docker-java-8-oracle.git
-[submodule "docker-java-9-oracle"]
-	path = docker-java-9-oracle
-	url = git@github.com:ci-and-cd/docker-java-9-oracle.git
 [submodule "docker-nexus3"]
 	path = docker-nexus3
 	url = git@github.com:ci-and-cd/docker-nexus3.git
@@ -79,9 +76,6 @@
 [submodule "docker-linuxbrew"]
         path = docker-linuxbrew
         url = git@github.com:ci-and-cd/docker-linuxbrew.git
-[submodule "docker-java-10-oracle"]
-	path = docker-java-10-oracle
-	url = git@github.com:ci-and-cd/docker-java-10-oracle.git
 [submodule "docker-redis"]
 	path = docker-redis
 	url = git@github.com:ci-and-cd/docker-redis.git
@@ -164,4 +158,16 @@
 [submodule "docker-sonarqube-plugins"]
 	path = docker-sonarqube-plugins
 	url = git@github.com:ci-and-cd/docker-sonarqube-plugins.git
+	branch = develop
+[submodule "docker-java-11-openjdk"]
+	path = docker-java-11-openjdk
+	url = git@github.com:ci-and-cd/docker-java-11-openjdk.git
+	branch = develop
+[submodule "docker-java-11-zulu"]
+	path = docker-java-11-zulu
+	url = git@github.com:ci-and-cd/docker-java-11-zulu.git
+	branch = develop
+[submodule "docker-service-base-image-java"]
+	path = docker-service-base-image-java
+	url = git@github.com:ci-and-cd/docker-service-base-image-java.git
 	branch = develop
