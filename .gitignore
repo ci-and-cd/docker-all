@@ -8,4 +8,5 @@
 
 # deprecated
 /docker-ci
+/docker-elk-filebeat
 /docker-java
