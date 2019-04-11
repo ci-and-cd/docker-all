@@ -22,9 +22,6 @@
 [submodule "docker-bionic-rvm-ruby"]
 	path = docker-bionic-rvm-ruby
 	url = git@github.com:ci-and-cd/docker-bionic-rvm-ruby.git
-[submodule "docker-java-8-oracle"]
-	path = docker-java-8-oracle
-	url = git@github.com:ci-and-cd/docker-java-8-oracle.git
 [submodule "docker-nexus3"]
 	path = docker-nexus3
 	url = git@github.com:ci-and-cd/docker-nexus3.git
@@ -52,9 +49,6 @@
 [submodule "docker-bionic-graphviz"]
 	path = docker-bionic-graphviz
 	url = git@github.com:ci-and-cd/docker-bionic-graphviz.git
-[submodule "docker-java-oracle"]
-	path = docker-java-oracle
-	url = git@github.com:ci-and-cd/docker-java-oracle.git
 [submodule "docker-gitlab"]
 	path = docker-gitlab
 	url = git@github.com:ci-and-cd/docker-gitlab.git

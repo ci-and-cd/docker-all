@@ -10,3 +10,6 @@
 /docker-ci
 /docker-elk-filebeat
 /docker-java
+/docker-java-8-oracle
+/docker-java-10-oracle
+/docker-java-oracle
