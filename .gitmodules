@@ -165,3 +165,7 @@
 	path = docker-service-base-image-java
 	url = git@github.com:ci-and-cd/docker-service-base-image-java.git
 	branch = develop
+[submodule "docker-cat"]
+	path = docker-cat
+	url = git@github.com:cloud-ready/docker-cat.git
+	branch = develop
