@@ -169,3 +169,11 @@
 	path = docker-cat
 	url = git@github.com:cloud-ready/docker-cat.git
 	branch = develop
+[submodule "docker-minio"]
+	path = docker-minio
+	url = git@github.com:cloud-ready/docker-minio.git
+	branch = develop
+[submodule "docker-webdav"]
+	path = docker-webdav
+	url = git@github.com:ci-and-cd/docker-webdav.git
+	branch = develop
