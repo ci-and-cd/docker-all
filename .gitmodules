@@ -177,3 +177,7 @@
 	path = docker-webdav
 	url = git@github.com:ci-and-cd/docker-webdav.git
 	branch = develop
+[submodule "docker-rsync"]
+	path = docker-rsync
+	url = git@github.com:ci-and-cd/docker-rsync.git
+	branch = develop
